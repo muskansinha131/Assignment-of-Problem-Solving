@@ -1,3 +1,5 @@
+//  Write a program to find the sum of all the elements of an array using pointers. 
+
 #include <stdio.h>
 
 int sum_of_array(int *arr, int size) {
@@ -20,3 +22,4 @@ int main() {
     printf("Sum of elements: %d\n", sum_of_array(arr, n));
     return 0;
 }
+
