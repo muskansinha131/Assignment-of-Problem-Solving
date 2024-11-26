@@ -1,5 +1,4 @@
-// Write a program to copy one string to another using pointer. 
-
+// Write a program to concatenate two strings using pointers. 
 #include <stdio.h>
 
 void concatenate(char *str1, char *str2) {
